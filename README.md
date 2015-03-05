@@ -12,4 +12,5 @@ Basically, I took an example project under ofxFaceTracker that was compiling cor
 
 **Note that there's an "vector error" that crashes the program when you press up too many times and there's not enough images in the background. Tried to fix with variable manipulation but crashes nonetheless. Remember to put as many images in there as you want, and don't press up more than # of images. 
 
+--Merging my face with Lebron James
 ![screenshot](https://raw.github.com/thehackerati/OpenFrameworksFaceSubstitution/master/screenshots/lebron.png)
