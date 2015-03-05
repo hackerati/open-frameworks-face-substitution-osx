@@ -1,7 +1,7 @@
 # OpenFrameworksFaceSubstitution
 Working version of Face Substitution on Mac OS 
 
-Note that I couldn't push the entire Open Frameworks folder due to file size. 
+Note that I couldn't push the entire Open Frameworks folder due to file size. Therefore, cloning this folder alone will not make this project work on your computer. You need to install Open Frameworks (OSX version) and add ofxCv and ofxFaceTracker as addons before making this work. 
 
 folder structure is
 
